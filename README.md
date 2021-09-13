@@ -11,7 +11,7 @@ Es un kit de herramientas de código abierto gratuito que proporciona una gran d
 
 Then, GNSS-SDR takes care of all the digital signal processing, performing signal acquisition and tracking of the available satellite signals, decoding the navigation message, and computing the observables needed by positioning algorithms, which ultimately compute the navigation solution. The software is designed to facilitate the inclusion of new signal processing techniques, offering an easy way to measure their impact on the overall receiver performance. Testing of all the processes is conducted both by the systematic functional validation of every single software block and by experimental validation of the complete receiver using either real-time signals received by the radio frequency front-end or a file containing those raw signal samples.
 
-![alt text](https://gnss-sdr.org/assets/images/logo-gnss-sdr.png)
+![alt text](https://repository-images.githubusercontent.com/18740094/9338ab00-a06f-11ea-8e2b-d236bf2327e7)
 
 # HARDWARE USADO
 
